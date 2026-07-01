@@ -59,7 +59,7 @@ The remaining compiler pipeline will include:
 ## Running
 
 ```sh
-cargo run -- examples/hello_world.b
+cargo run examples/hello_world.b
 ```
 
 ## Current Status
